@@ -12,3 +12,4 @@ de pièces automobiles. La base de données « Usine » contient les tables suiv
  Piece : contient les informations sur les pièces fabriquées par l’usine 
  Commande : contient les informations des commandes d’achat des pièces automobiles. Pour simplifier, on 
 considère qu’une commande concerne un seul modèle de pièce.
+[Amira_Abbadi_Projet_BD.pdf](https://github.com/user-attachments/files/15971710/Amira_Abbadi_Projet_BD.pdf)
